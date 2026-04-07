@@ -12,6 +12,9 @@ Thank you for your support!
 
 <img width="1360" height="643" alt="tools" src="https://github.com/user-attachments/assets/e5ddeef2-930d-4967-8d3b-1b9dd953d57c" />
 
+<img width="1016" height="446" alt="Screenshot 2026-04-07 191716" src="https://github.com/user-attachments/assets/7fd0bae0-b69f-4aa2-898e-093e6cf844c8" />
+
+
 
 
 # CMD TO RUN THE TOOLS
